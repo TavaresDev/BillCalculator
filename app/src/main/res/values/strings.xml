@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson3</string>
+    <string name="enter_amount">Enter Bill Amount</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="tip_percent">15%</string>
+    <string name="title_activity_basic">Basic Activity</string>
+</resources>
